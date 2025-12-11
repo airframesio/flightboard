@@ -46,7 +46,7 @@
     "commander": "^14.0.0",
     "figlet": "^1.8.2",
     "lucide-react": "^0.542.0",
-    "next": "15.5.2",
+    "next": "15.5.8",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "tailwind-merge": "^3.3.1"
